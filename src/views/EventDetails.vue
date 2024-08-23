@@ -17,7 +17,6 @@ onMounted(() => {
       console.log({ error })
     })
 })
-console.log({ event })
 </script>
 
 <template>
